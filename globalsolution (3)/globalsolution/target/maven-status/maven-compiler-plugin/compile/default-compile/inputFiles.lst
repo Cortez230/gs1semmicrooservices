@@ -1,0 +1,15 @@
+C:\Users\labsfiap\Downloads\globalsolution (3)\globalsolution\src\main\java\br\com\fiap\rm_551665\globalsolution\controller\CatastrofeController.java
+C:\Users\labsfiap\Downloads\globalsolution (3)\globalsolution\src\main\java\br\com\fiap\rm_551665\globalsolution\controller\RefugioController.java
+C:\Users\labsfiap\Downloads\globalsolution (3)\globalsolution\src\main\java\br\com\fiap\rm_551665\globalsolution\dto\catastrofe\CatastrofeRequestCreate.java
+C:\Users\labsfiap\Downloads\globalsolution (3)\globalsolution\src\main\java\br\com\fiap\rm_551665\globalsolution\dto\catastrofe\CatastrofeRequestUpdate.java
+C:\Users\labsfiap\Downloads\globalsolution (3)\globalsolution\src\main\java\br\com\fiap\rm_551665\globalsolution\dto\catastrofe\CatastrofeResponse.java
+C:\Users\labsfiap\Downloads\globalsolution (3)\globalsolution\src\main\java\br\com\fiap\rm_551665\globalsolution\dto\refugio\RefugioRequestCreate.java
+C:\Users\labsfiap\Downloads\globalsolution (3)\globalsolution\src\main\java\br\com\fiap\rm_551665\globalsolution\dto\refugio\RefugioRequestUpdate.java
+C:\Users\labsfiap\Downloads\globalsolution (3)\globalsolution\src\main\java\br\com\fiap\rm_551665\globalsolution\dto\refugio\RefugioResponse.java
+C:\Users\labsfiap\Downloads\globalsolution (3)\globalsolution\src\main\java\br\com\fiap\rm_551665\globalsolution\GlobalsolutionApplication.java
+C:\Users\labsfiap\Downloads\globalsolution (3)\globalsolution\src\main\java\br\com\fiap\rm_551665\globalsolution\service\CatastrofeService.java
+C:\Users\labsfiap\Downloads\globalsolution (3)\globalsolution\src\main\java\br\com\fiap\rm_551665\globalsolution\service\RefugioService.java
+C:\Users\labsfiap\Downloads\globalsolution (3)\globalsolution\src\main\java\br\com\fiap\rm_551665\model\Catastrofe.java
+C:\Users\labsfiap\Downloads\globalsolution (3)\globalsolution\src\main\java\br\com\fiap\rm_551665\model\Refugio.java
+C:\Users\labsfiap\Downloads\globalsolution (3)\globalsolution\src\main\java\br\com\fiap\rm_551665\repository\CatastrofeRepository.java
+C:\Users\labsfiap\Downloads\globalsolution (3)\globalsolution\src\main\java\br\com\fiap\rm_551665\repository\RefugioRepository.java

@@ -1,0 +1,15 @@
+br\com\fiap\rm_551665\globalsolution\service\CatastrofeService.class
+br\com\fiap\rm_551665\globalsolution\service\RefugioService.class
+br\com\fiap\rm_551665\globalsolution\dto\refugio\RefugioRequestCreate.class
+br\com\fiap\rm_551665\globalsolution\controller\RefugioController.class
+br\com\fiap\rm_551665\globalsolution\model\Catastrofe.class
+br\com\fiap\rm_551665\globalsolution\dto\catastrofe\CatastrofeRequestCreate.class
+br\com\fiap\rm_551665\globalsolution\controller\CatastrofeController.class
+br\com\fiap\rm_551665\globalsolution\dto\catastrofe\CatastrofeResponse.class
+br\com\fiap\rm_551665\globalsolution\dto\catastrofe\CatastrofeRequestUpdate.class
+br\com\fiap\rm_551665\globalsolution\repository\CatastrofeRepository.class
+br\com\fiap\rm_551665\globalsolution\repository\RefugioRepository.class
+br\com\fiap\rm_551665\globalsolution\dto\refugio\RefugioRequestUpdate.class
+br\com\fiap\rm_551665\globalsolution\GlobalsolutionApplication.class
+br\com\fiap\rm_551665\globalsolution\model\Refugio.class
+br\com\fiap\rm_551665\globalsolution\dto\refugio\RefugioResponse.class
